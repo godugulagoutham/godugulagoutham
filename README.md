@@ -1,18 +1,52 @@
-# Hi, I'm Goutham Godugula! 👋
+# Hi, I'm GODUGULA GOUTHAM! 👋
 
-### AI & IoT Developer | Machine Learning Enthusiast | Java Developer
+# Hi, I'm Goutham 👋
 
-I am a passionate developer focused on building intelligent systems that bridge the gap between hardware and software. I specialize in Machine Learning workflows and IoT architectures, specifically exploring how 5G and AI can solve real-world environmental challenges.
+B.Tech Student focused on C programming, problem solving, and core computer science concepts.
 
 ---
 
-## 🚀 What I'm working on
-- 🌲 **Smart Forest Fire Detection:** Developing a 5G-enabled IoT system using ESP32 and Cloud Servers for real-time monitoring and AI fire prediction.
-- 🤖 **Machine Learning Lab:** Documenting core ML algorithms, from regression to deep learning, with clean, reproducible code.
-- 📡 **Wireless Comms:** Designing 3D models and simulations for 2.4GHz WiFi antennas and transmission lines.
+## 🚀 What I'm currently doing
+- Practicing C programming and problem solving
+- Learning Data Structures & Algorithms (basics)
+- Solving SQL problems (HackerRank style)
 
-## 🛠️ Tech Stack
+---
 
+## 🛠️ Skills
+- C Programming
+- Python (Basics)
+- SQL
+- Git & GitHub
+
+---
+
+## 📌 Projects
+
+### 🔹 Sorting Algorithms in C
+- Implemented Bubble Sort, Quick Sort, Merge Sort
+- Compared basic execution behavior
+
+### 🔹 Employee Management System (C)
+- Used structures
+- Add, display, and manage employee records
+
+### 🔹 String Operations Toolkit
+- Palindrome check
+- String reverse
+- Length calculation
+
+---
+
+## 📊 GitHub Stats
+![Goutham's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 🎯 Goal
+To become a Software Developer with strong problem-solving skills.
+
+---
 ### Languages & Core
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -32,7 +66,7 @@ I am a passionate developer focused on building intelligent systems that bridge 
 
 ## 📫 Connect with me
 - **LinkedIn:** [in/godugulagoutham](https://www.linkedin.com/in/godugulagoutham)
-- **Email:** [Your Email Here]
+- **Email:** [godugulagoutham2006@gmail.com]
 
 ---
 *“Turning data into insights and hardware into intelligent solutions.”*
