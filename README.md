@@ -38,11 +38,6 @@ B.Tech Student focused on C programming, problem solving, and core computer scie
 
 ---
 
-## 📊 GitHub Stats
-![Goutham's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
----
-
 ## 🎯 Goal
 To become a Software Developer with strong problem-solving skills.
 
@@ -51,7 +46,7 @@ To become a Software Developer with strong problem-solving skills.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### AI / Data Science
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### IoT & Tools
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -59,8 +54,8 @@ To become a Software Developer with strong problem-solving skills.
 ---
 
 ## 📊 GitHub Stats
-![Goutham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gouthamgodugula&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamgodugula&layout=compact&theme=radical)
+![Goutham's GitHub stats](https://github-readme-stats.vercel.app/api?username=godugulagoutham&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godugulagoutham&layout=compact&theme=radical)
 
 ---
 
