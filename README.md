@@ -1,13 +1,10 @@
 # Hi, I'm GODUGULA GOUTHAM! 👋
-
-# Hi, I'm Goutham 👋
-
-B.Tech Student focused on C programming, problem solving, and core computer science concepts.
+B.Tech Student focused on  programming, problem solving, and core concepts.
 
 ---
 
 ## 🚀 What I'm currently doing
-- Practicing C programming and problem solving
+- Practicing  programming and problem solving
 - Learning Data Structures & Algorithms (basics)
 - Solving SQL problems (HackerRank style)
 
